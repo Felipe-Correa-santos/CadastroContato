@@ -19,7 +19,9 @@ A aplicação permite cadastrar, consultar, atualizar e remover contatos, facili
 ## Como utilizar
 
 1. Faça o download ou clone este repositório.
+   
 2. Abra o projeto em uma IDE compatível com Python, como Visual Studio Code ou PyCharm.
+   
 3. Execute o arquivo principal para utilizar o sistema de cadastro de contatos.
 
 ## Autor
